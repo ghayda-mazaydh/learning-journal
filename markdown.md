@@ -1,8 +1,12 @@
 # Learning Markdown
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfGH8aUNewpdJWmfiP-7xTDfq8VC3ntNWfTiIjdr580h3Z6PLM)
+
 ## The defintion:
 
 It is a syntax that easy to use to style the writing form on the GitHub platform.
+
+**NOTE:** this article illustrate how the syntaxes **NOT** the syntax it self
 
 
 ## Intances:
