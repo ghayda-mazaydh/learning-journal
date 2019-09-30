@@ -1,5 +1,6 @@
 # Growth mindset
 
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ9P3dnAqql-a2UdPeHqz9tBTp4BJ7aGnoTTupaAqiPnYyx56gg)
 ## General describtion
 Growth mindset is to understand and believe that they can rewire their brain and improve their skills, intelligence and basic abilities.
@@ -10,3 +11,11 @@ Growth mindset is to understand and believe that they can rewire their brain and
 3. do your best
 
 [For more information](https://www.mindsetworks.com/science/)
+ 
+|**file name**|**URL**|
+|:--------------|-------------:|
+|Git_tutorila|Git_tutorila.md|
+|Linux-Tutorial|Linux-Tutorial.md|
+|markdown|markdown.md|
+|hi|hi.md| 
+|README|README.md|
