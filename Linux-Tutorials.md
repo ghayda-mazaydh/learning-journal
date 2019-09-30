@@ -1,4 +1,4 @@
-# Linux Tutorial
+# Text editor
 
 ## command line:
 
