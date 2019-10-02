@@ -4,7 +4,7 @@
 
 ## The 4 things common to all computers:
 1. INPUT
-Your keyboard and mouse
+Your keyboard and mouse.
 
 2. STORAGE
 Your computer probably stores all your documents and files on a hard drive: a huge magnetic memory.
